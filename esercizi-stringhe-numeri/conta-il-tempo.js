@@ -13,4 +13,4 @@
   http://www.imparareaprogrammare.it
 */
 
- var time = 6; 
+ var time = 4; 
